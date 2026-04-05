@@ -180,7 +180,7 @@ streamlit run app/dashboard.py
 
 * SQLite DB → `db/database.db`
 * Unified dataset → `unified_data` table
-* Dashboard → http://localhost:8501
+* Dashboard → https://real-estate-intelligence-hpguitzfebcbnt94knpgir.streamlit.app/
 
 ---
 
